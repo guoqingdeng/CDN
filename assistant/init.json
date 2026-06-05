@@ -1,7 +1,7 @@
 {
-  "PRIVACY_POLICY_URL": "https://cdn.qingdeng-gou.workers.dev/assistant/privacy_policy.html",
+  "PRIVACY_POLICY_URL": "https://config.knowlnet.top/assistant/privacy_policy.html",
   "PRIVACY_POLICY_LOCAL_FILE_NAME": "privacy_policy.html",
-  "USER_AGREEMENT_URL": "https://cdn.qingdeng-gou.workers.dev/assistant/user_agreement",
+  "USER_AGREEMENT_URL": "https://config.knowlnet.top/assistant/user_agreement",
   "USER_AGREEMENT_LOCAL_FILE_NAME": "user_agreement.html",
   "LOAD_MODE": true,
   "APP_KEY": "6a2148909a7f376488f002b5",
